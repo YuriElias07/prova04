@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #000000;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+
+.team-section {
+    display: flex;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #ffffffc0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(0, 248, 62);
+    align-items: center;
+    justify-content: center;
+}
+
+.team-section img {
+    height: 150px;
+    margin-bottom: 10px;
+    margin: 60px;
+}
+
+.team-info {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.curiosity {
+    font-style: italic;
+    color: #000000;
+}
